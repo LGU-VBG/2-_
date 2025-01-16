@@ -1,0 +1,14 @@
+C:\Users\VPimenov\RunnerApp\bin\Debug\net9.0\RunnerApp.exe
+C:\Users\VPimenov\RunnerApp\bin\Debug\net9.0\RunnerApp.deps.json
+C:\Users\VPimenov\RunnerApp\bin\Debug\net9.0\RunnerApp.runtimeconfig.json
+C:\Users\VPimenov\RunnerApp\bin\Debug\net9.0\RunnerApp.dll
+C:\Users\VPimenov\RunnerApp\bin\Debug\net9.0\RunnerApp.pdb
+C:\Users\VPimenov\RunnerApp\obj\Debug\net9.0\RunnerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VPimenov\RunnerApp\obj\Debug\net9.0\RunnerApp.AssemblyInfoInputs.cache
+C:\Users\VPimenov\RunnerApp\obj\Debug\net9.0\RunnerApp.AssemblyInfo.cs
+C:\Users\VPimenov\RunnerApp\obj\Debug\net9.0\RunnerApp.csproj.CoreCompileInputs.cache
+C:\Users\VPimenov\RunnerApp\obj\Debug\net9.0\RunnerApp.dll
+C:\Users\VPimenov\RunnerApp\obj\Debug\net9.0\refint\RunnerApp.dll
+C:\Users\VPimenov\RunnerApp\obj\Debug\net9.0\RunnerApp.pdb
+C:\Users\VPimenov\RunnerApp\obj\Debug\net9.0\RunnerApp.genruntimeconfig.cache
+C:\Users\VPimenov\RunnerApp\obj\Debug\net9.0\ref\RunnerApp.dll
